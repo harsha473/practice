@@ -1,4 +1,4 @@
-this the file for using for the practice session by the git hub
+this the file for using for the practice session by the git hub.
 of Git Commands
 List of all Git Commands
 #
@@ -17,6 +17,7 @@ Tell Git who you are
 Description	Command
 Configure the author name.	git config --global user.name "<username>"
 Configure the author email address.	git config --global user.email <email address>
+
 Getting & Creating Projects
 Description	Command
 Initialize a local Git repository	git init
